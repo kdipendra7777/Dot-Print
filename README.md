@@ -23,6 +23,9 @@ DotPrint is a modern and creative printing platform focused on delivering high-q
 - Node.js
 - Express.js
 
+- ### Database
+- MongoDb
+
 ## Vision
 
 DotPrint aims to create a next-generation digital printing experience that feels modern, creative, and professional while keeping the interface simple and accessible for everyone.
